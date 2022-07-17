@@ -1,2 +1,2 @@
 # DiConsoleStarter
-Starter Console Application with DI
+Console Application with DI
