@@ -16,7 +16,7 @@ Now we can use appsettings.json to configure our application with json confg fil
 For command line parsing we will use the package CommandLineParser from https://github.com/commandlineparser/commandline  
 
 ## Logging 
-For logging we will use Serilog.   
+For logging we will use Serilog from https://github.com/serilog/serilog   
 
 Minimum packages:
 - Serilog
