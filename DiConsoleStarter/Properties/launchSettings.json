@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiConsoleStarter": {
+      "commandName": "Project",
+      "commandLineArgs": "--verbose=true"
+    }
+  }
+}
