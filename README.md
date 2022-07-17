@@ -2,10 +2,14 @@
 Console Application with dependecy injection, configuration, command line parser and logging.
 
 ## Dependency Injection
-For Dependency Injection we use the Microsoft Dependency Injection package
+For Dependency Injection we use 
+- Microsoft Dependency Injection package
 
 ## Configuration
-For configuration we will use the package Microsoft.Extensions.Configuration.FileExtensions and Microsoft.Extensions.Configuration.Json.  
+For configuration we will use the package 
+- Microsoft.Extensions.Configuration.FileExtensions 
+- Microsoft.Extensions.Configuration.Json.  
+
 Now we can use appsettings.json to configure our application with json confg file.
 
 ## Command Line Parser
